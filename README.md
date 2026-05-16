@@ -10,9 +10,10 @@ Sinta-se à vontade para enviar as provas que tiver — você estará ajudando o
 2. Crie uma branch para sua contribuição:
    - `git checkout -b minha-contribuicao`
 3. Adicione seus arquivos de prova na pasta adequada (ou crie uma pasta organizada por disciplina/período, se necessário).
+   - Exemplo de organização: `disciplinas/calculo-1/2024.1/` ou `periodos/1-periodo/calculo-1/`.
 4. Faça commit das alterações:
    - `git add .`
-   - `git commit -m "Adiciona provas de <disciplina>"`
+   - `git commit -m "Adiciona provas de <disciplina> (ex: Cálculo I)"`
 5. Envie a branch para seu fork:
    - `git push origin minha-contribuicao`
 6. Abra um **Pull Request** para este repositório explicando brevemente o que foi adicionado.
