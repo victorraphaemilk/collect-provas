@@ -1,0 +1,72 @@
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Dependências
+node_modules/
+vendor/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+
+# Builds e compilados
+dist/
+build/
+out/
+*.class
+*.o
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Compactados
+*.zip
+*.tar.gz
+*.rar
+*.7z
